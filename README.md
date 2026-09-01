@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/prashantraj09/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
 | ------- |
