@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prashantraj09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/prashantraj09/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/prashantraj09/LeetCode/tree/master/0078-subsets) |
+| [0260-single-number-iii](https://github.com/prashantraj09/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prashantraj09/LeetCode/tree/master/0704-binary-search) |
 | [0861-score-after-flipping-matrix](https://github.com/prashantraj09/LeetCode/tree/master/0861-score-after-flipping-matrix) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prashantraj09/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/prashantraj09/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/prashantraj09/LeetCode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/prashantraj09/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prashantraj09/LeetCode/tree/master/0342-power-of-four) |
 | [0861-score-after-flipping-matrix](https://github.com/prashantraj09/LeetCode/tree/master/0861-score-after-flipping-matrix) |
