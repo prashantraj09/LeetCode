@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prashantraj09/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/prashantraj09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/prashantraj09/LeetCode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/prashantraj09/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prashantraj09/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prashantraj09/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/prashantraj09/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/prashantraj09/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prashantraj09/LeetCode/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prashantraj09/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
