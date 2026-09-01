@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prashantraj09/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prashantraj09/LeetCode/tree/master/0704-binary-search) |
+| [0861-score-after-flipping-matrix](https://github.com/prashantraj09/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prashantraj09/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prashantraj09/LeetCode/tree/master/0342-power-of-four) |
+| [0861-score-after-flipping-matrix](https://github.com/prashantraj09/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/prashantraj09/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/prashantraj09/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prashantraj09/LeetCode/tree/master/0011-container-with-most-water) |
+| [0861-score-after-flipping-matrix](https://github.com/prashantraj09/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/prashantraj09/LeetCode/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/prashantraj09/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
