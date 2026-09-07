@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prashantraj09/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/prashantraj09/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prashantraj09/LeetCode/tree/master/0342-power-of-four) |
@@ -87,6 +88,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prashantraj09/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/prashantraj09/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/prashantraj09/LeetCode/tree/master/0342-power-of-four) |
 ## Backtracking
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/prashantraj09/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/prashantraj09/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
