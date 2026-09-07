@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prashantraj09/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/prashantraj09/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/prashantraj09/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/prashantraj09/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/prashantraj09/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -34,6 +35,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prashantraj09/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/prashantraj09/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prashantraj09/LeetCode/tree/master/0704-binary-search) |
@@ -84,6 +86,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prashantraj09/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/prashantraj09/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Recursion
 |  |
