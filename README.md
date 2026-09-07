@@ -60,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/prashantraj09/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/prashantraj09/LeetCode/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
