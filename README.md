@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/prashantraj09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/prashantraj09/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/prashantraj09/LeetCode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prashantraj09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/prashantraj09/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/prashantraj09/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prashantraj09/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prashantraj09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
