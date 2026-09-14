@@ -27,6 +27,7 @@
 | [0049-group-anagrams](https://github.com/prashantraj09/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/prashantraj09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/prashantraj09/LeetCode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/prashantraj09/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/prashantraj09/LeetCode/tree/master/0049-group-anagrams) |
+| [0383-ransom-note](https://github.com/prashantraj09/LeetCode/tree/master/0383-ransom-note) |
 | [0709-to-lower-case](https://github.com/prashantraj09/LeetCode/tree/master/0709-to-lower-case) |
 ## Two Pointers
 |  |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashantraj09/LeetCode/tree/master/0002-add-two-numbers) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/prashantraj09/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
