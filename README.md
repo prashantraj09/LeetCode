@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/prashantraj09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/prashantraj09/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
+| [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/prashantraj09/LeetCode/tree/master/0704-binary-search) |
 | [0861-score-after-flipping-matrix](https://github.com/prashantraj09/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 ## Hash Table
@@ -28,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/prashantraj09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/prashantraj09/LeetCode/tree/master/0383-ransom-note) |
+| [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
 | ------- |
@@ -62,12 +64,14 @@
 | [0049-group-anagrams](https://github.com/prashantraj09/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/prashantraj09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
+| [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/prashantraj09/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/prashantraj09/LeetCode/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/prashantraj09/LeetCode/tree/master/0383-ransom-note) |
+| [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/prashantraj09/LeetCode/tree/master/0709-to-lower-case) |
 ## Two Pointers
 |  |
@@ -119,4 +123,17 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/prashantraj09/LeetCode/tree/master/0383-ransom-note) |
+| [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
