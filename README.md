@@ -21,6 +21,7 @@
 | [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/prashantraj09/LeetCode/tree/master/0704-binary-search) |
 | [0861-score-after-flipping-matrix](https://github.com/prashantraj09/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/prashantraj09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0217-contains-duplicate](https://github.com/prashantraj09/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prashantraj09/LeetCode/tree/master/0268-missing-number) |
 | [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/prashantraj09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
 |  |
 | ------- |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/prashantraj09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
