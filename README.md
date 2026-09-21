@@ -76,6 +76,7 @@
 | [0049-group-anagrams](https://github.com/prashantraj09/LeetCode/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prashantraj09/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/prashantraj09/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/prashantraj09/LeetCode/tree/master/0392-is-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/prashantraj09/LeetCode/tree/master/0709-to-lower-case) |
 ## Two Pointers
@@ -84,6 +85,7 @@
 | [0011-container-with-most-water](https://github.com/prashantraj09/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/prashantraj09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prashantraj09/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/prashantraj09/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prashantraj09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prashantraj09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/prashantraj09/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
