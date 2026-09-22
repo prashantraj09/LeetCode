@@ -79,6 +79,7 @@
 | [0392-is-subsequence](https://github.com/prashantraj09/LeetCode/tree/master/0392-is-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/prashantraj09/LeetCode/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/prashantraj09/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0042-trapping-rain-water](https://github.com/prashantraj09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prashantraj09/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/prashantraj09/LeetCode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/prashantraj09/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prashantraj09/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/prashantraj09/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -149,4 +152,8 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/prashantraj09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/prashantraj09/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
