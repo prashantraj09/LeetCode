@@ -24,6 +24,7 @@
 | [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/prashantraj09/LeetCode/tree/master/0704-binary-search) |
 | [0861-score-after-flipping-matrix](https://github.com/prashantraj09/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashantraj09/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/prashantraj09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
@@ -111,10 +112,12 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prashantraj09/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/prashantraj09/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashantraj09/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prashantraj09/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashantraj09/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Divide and Conquer
 |  |
 | ------- |
