@@ -24,6 +24,7 @@
 | [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/prashantraj09/LeetCode/tree/master/0704-binary-search) |
 | [0861-score-after-flipping-matrix](https://github.com/prashantraj09/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prashantraj09/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashantraj09/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/prashantraj09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
@@ -77,6 +78,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/prashantraj09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/prashantraj09/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prashantraj09/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/prashantraj09/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
 |  |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/prashantraj09/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prashantraj09/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
