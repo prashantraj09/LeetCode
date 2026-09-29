@@ -94,6 +94,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/prashantraj09/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/prashantraj09/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/prashantraj09/LeetCode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/prashantraj09/LeetCode/tree/master/0148-sort-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prashantraj09/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/prashantraj09/LeetCode/tree/master/0392-is-subsequence) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashantraj09/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/prashantraj09/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/prashantraj09/LeetCode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/prashantraj09/LeetCode/tree/master/0148-sort-list) |
 ## Counting
 |  |
