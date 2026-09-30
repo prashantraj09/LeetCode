@@ -102,6 +102,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/prashantraj09/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/prashantraj09/LeetCode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/prashantraj09/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prashantraj09/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0234-palindrome-linked-list](https://github.com/prashantraj09/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/prashantraj09/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashantraj09/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prashantraj09/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0206-reverse-linked-list](https://github.com/prashantraj09/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prashantraj09/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/prashantraj09/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prashantraj09/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting
 |  |
 | ------- |
