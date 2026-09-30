@@ -8,19 +8,29 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        arr = []
-        curr = head
+        if head is None or head.next is None:
+            return
+        slow = head
+        fast = head
+        while((fast.next != None) and (fast.next.next != None)):
+            slow = slow.next
+            fast = fast.next.next
+        fast = slow.next
+        slow.next = None
+
+        curr = fast
+        prev = None
+        fwd = None
         while curr:
-            arr.append(curr.val)
-            curr = curr.next
-        i, j = 0, len(arr) - 1
-        while(i <= j):
-            if i == j:
-                head.val = arr[i]
-                head.next = None
-                break
-            head.val = arr[i]
-            head.next.val = arr[j]
-            i += 1
-            j -= 1
-            head = head.next.next
+            fwd = curr.next
+            curr.next = prev
+            prev = curr
+            curr = fwd
+        
+        while prev:
+            temp1 = head.next
+            temp2 = prev.next
+            head.next = prev
+            prev.next = temp1
+            head = temp1
+            prev = temp2
