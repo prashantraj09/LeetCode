@@ -9,10 +9,14 @@ class Solution:
         while head:
             arr.append(head.val)
             head = head.next
-        low, high = 0, len(arr) - 1
-        while(low < high):
-            if arr[low] != arr[high]:
-                return False
-            low += 1
-            high -= 1
-        return True
+
+
+        # low, high = 0, len(arr) - 1
+        # while(low < high):
+        #     if arr[low] != arr[high]:
+        #         return False
+        #     low += 1
+        #     high -= 1
+        # return True
+
+        return arr == arr[::-1]
